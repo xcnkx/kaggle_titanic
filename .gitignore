@@ -84,6 +84,8 @@ target/
 # vim
 *.swp
 *.swo
+#Kaggle API
+kaggle.json
 
 # Mypy cache
 .mypy_cache/
