@@ -2,7 +2,6 @@
 import subprocess
 import feather
 import pandas as pd
-import os
 import pathlib
 
 
